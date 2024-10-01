@@ -11,7 +11,7 @@ With a passion for crafting efficient and scalable web applications, I specializ
 - **Backend:** Node.js, Express.js, MongoDB
 - **Tools & Libraries:** Git, Docker, Socket.io, Nodemailer, Razorpay, PDFKit, Multer
 - **Other Technologies:** Cloudinary, PayPal/Stripe, ExcelJS, Video/Chat Real-time Integrations
-- **Workflow:** Agile methodologies, Responsive Design, API Integration
+- **Workflow:** Responsive Design, API Integration
 
 ---
 
@@ -20,7 +20,7 @@ With a passion for crafting efficient and scalable web applications, I specializ
    
 2. **[Dream Homes](https://github.com/fazil8848/DreamHomes)** - A real-time property rental platform allowing owners to post properties and users to rent, with Google login, PayPal payments, chat, video calls, and notifications. Built with React.js, Node.js, MongoDB, and Tailwind CSS.
 
-3. **Portfolio** - A sleek and responsive portfolio site built using React.js, showcasing my work and skills in web development.
+3. **[Portfolio](https://github.com/fazil8848/Portfolio)** - A sleek and responsive portfolio site built using React.js, showcasing my work and skills in web development.
 
 ---
 
@@ -41,7 +41,7 @@ I'm a firm believer in continuous learning. Currently diving deeper into:
 
 ### 🔗 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/fazilmonpp)
-- [Portfolio](https://fazilmonpp.com)
+- [Portfolio](fazilsportfolio.vercel.app)
 - [Email Me](mailto:fazilofficial05@gmail.com)
 
 Let’s build something great together!
