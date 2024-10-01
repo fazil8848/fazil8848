@@ -40,8 +40,8 @@ I'm a firm believer in continuous learning. Currently diving deeper into:
 ---
 
 ### 🔗 Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/fazilmonpp)
-- [Portfolio](fazilsportfolio.vercel.app)
+- [LinkedIn](https://www.linkedin.com/in/fazil-pp-135255286/)
+- [Portfolio](https://fazilsportfolio.vercel.app)
 - [Email Me](mailto:fazilofficial05@gmail.com)
 
 Let’s build something great together!
