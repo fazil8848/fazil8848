@@ -39,6 +39,12 @@ I'm a firm believer in continuous learning. Currently diving deeper into:
 
 ---
 
+### 🐍 Snake Game (GitHub Contribution Graph):
+
+![Snake animation](https://github.com/fazil8848/fazil8848/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ### 🔗 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/fazil-pp-135255286/)
 - [Portfolio](https://fazilsportfolio.vercel.app)
